@@ -77,7 +77,7 @@ header {
 #search-icon {
     font-size: 24px;
     cursor: pointer;
-    color: var(--bg-color);
+    color: var(--text-color);
 }
 .search-box {
     position: absolute;
@@ -108,9 +108,8 @@ header {
     width: 100%;
     min-height: 640px;
     display: flex;
-    aligh-items: center;
-    background: url(img/Background-home.jpg);
-    background-
+    align-items: center;
+    background: url(img/Background-home.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
