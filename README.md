@@ -8,7 +8,7 @@
 
 <h1 align="center">CowBidder</h1>
 
-<p align="center">A static landing-page mock-up for an online cattle auction, made as a test project for the "12 Breaders" group in Thailand.</p>
+<p align="center">A static landing-page mock-up for an online cattle auction, made as a test project for the 12 Breeders group in Thailand.</p>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
